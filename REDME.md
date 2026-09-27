@@ -1,4 +1,6 @@
 # Python Quiz GAME
+![Static Badge](https://img.shields.io/badge/python.3.12-blue)
+
 A simole quiz game built with python
 ## Table of contents
 
@@ -46,13 +48,16 @@ python_quiz_game/
 │   result.txt
 ```
 ### file description
-- `main.py` - mai file usedd to run quiz game
-- `question.py` - stores question and answer 
-- `requirment.txt` - list python pyckages inthe project
-- `.env.example` - show the envoirment variebels needed by the project
-- `.gitignor` - tells git which files not trackted
-- `.gitignor` -contains the project
-- `readme.md` - 
+| file | description |
+| --- | --- |
+| `main.py` | - main file used to run quiz game|
+| `question.py` | - stores question and answer|
+| `requirment.txt` | - list python pyckages inthe project|
+| `.env.example` | - show the envoirment variebels needed by the project|
+| `.gitignor` | - tells git which files not trackted|
+| `.gitignor` | -contains the project|
+| `readme.md` | - contains the project documentation
+| `pic` | - stores project screenshon
 
 ## Requirments
 - `python 3`
@@ -95,6 +100,9 @@ python main.py
 8. you result is saved in `result.txt`
 
 
+
+
+
 ## screenshot
 ### start game
 ![srart game](pic\1.png)
@@ -104,6 +112,9 @@ python main.py
 
 ### quiz
 ![quiz game](pic\3.png)
+
+## Demo
+![quiz game demo](gif\quiz_demo.gif)
 ## Roadmap
 - [x] add multiple quiz qestion
 - [x] calculate the final score
