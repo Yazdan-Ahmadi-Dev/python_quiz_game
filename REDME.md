@@ -3,7 +3,7 @@ A simole quiz game built with python
 ## Table of contents
 
 
-- [Table of contents](#table-of-contents)
+
 - [Features](#features)
 - [Project structure](#project-structure)
 - [Requirments](#requirments)
@@ -11,6 +11,7 @@ A simole quiz game built with python
 - [envoirment setup](#envoirment-setup)
 - [Usage](#usage)
 - [Example output](#example-output)
+- [Screenshot](#screenshot)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Licence](#licence)
@@ -92,8 +93,17 @@ python main.py
 6. answer the question 
 7. see your final score and massege 
 8. you result is saved in `result.txt`
-   
 
+
+## screenshot
+### start game
+![srart game](pic\1.png)
+
+### quiz
+![quiz game](pic\2.png)
+
+### quiz
+![quiz game](pic\3.png)
 ## Roadmap
 - [x] add multiple quiz qestion
 - [x] calculate the final score
