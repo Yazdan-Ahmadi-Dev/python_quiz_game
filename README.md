@@ -2,7 +2,7 @@
 # Python Quiz GAME.
 ![Static Badge](https://img.shields.io/badge/python%203.15-blue)
 
-A simole quiz game built with python
+A simole quiz game built with Python
 ## Table of contents
 
 
