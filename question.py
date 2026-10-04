@@ -28,4 +28,9 @@ questions = [
         "answer" : "git push"
     },
 
+    {
+        "question": "what cammand show git branch ? ",
+        "answer" : "git branch"
+    },
+
 ]
