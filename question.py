@@ -15,4 +15,17 @@ questions = [
         "question": "what cammand show git status? ",
         "answer" : "git status"
     },
+
+
+    {
+        "question": "what cammand show git history? ",
+        "answer" : "git log"
+    },
+
+
+    {
+        "question": "what cammand send commits to github ? ",
+        "answer" : "git push"
+    },
+
 ]
