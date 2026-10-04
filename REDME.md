@@ -1,9 +1,9 @@
-# Python Quiz GAME
-![Static Badge](https://img.shields.io/badge/python.3.12-blue)
+
+# Python Quiz GAME.
+![Static Badge](https://img.shields.io/badge/python%203.15-blue)
 
 A simole quiz game built with python
 ## Table of contents
-
 
 
 - [Features](#features)
@@ -13,7 +13,7 @@ A simole quiz game built with python
 - [envoirment setup](#envoirment-setup)
 - [Usage](#usage)
 - [Example output](#example-output)
-- [Screenshot](#screenshot)
+- [Screanshot](#screanshot)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Licence](#licence)
@@ -42,22 +42,32 @@ python_quiz_game/
 │   .env.example
 │   .gitignore
 │   main.py
-|   requirment.txt
 │   question.py
 │   README.md
-│   result.txt
+│
+├───gif
+│       animation.gif.gif
+│       quiz_demo.gif
+├───pic
+│       1.png
+│       2.png
+
 ```
 ### file description
-| file | description |
-| --- | --- |
-| `main.py` | - main file used to run quiz game|
-| `question.py` | - stores question and answer|
-| `requirment.txt` | - list python pyckages inthe project|
-| `.env.example` | - show the envoirment variebels needed by the project|
-| `.gitignor` | - tells git which files not trackted|
-| `.gitignor` | -contains the project|
-| `readme.md` | - contains the project documentation
-| `pic` | - stores project screenshon
+| file | description | 
+|--- | --- |
+| `main.py` | mai file usedd to run quiz game|
+| `question.py` | stores question and answer |
+| `requirment.txt` | list python pyckages inthe |project|
+| `.env.example` | show the envoirment variebels| needed by the project|
+| `.gitignor` | tells git which files not trackted|
+| `.gitignor` |contains the project|
+| `readme.md` | 
+| `pic` | stores project screnshot  |
+| `pic1` | start code |
+| `pic2` | finally code |
+| `gifs` | stores demo gif fils |
+| `demo.gif` | shows the project demo |
 
 ## Requirments
 - `python 3`
@@ -97,35 +107,52 @@ python main.py
 5. enter your name 
 6. answer the question 
 7. see your final score and massege 
-8. you result is saved in `result.txt`
+8. you result is saved in `result.txt` 
 
+## Example output
+do u to open admin mode yes/no
+no
+what your name? yourname
 
+what language are we using?your language using
+wrong
 
+what command starts a git?git
+wrong
 
+what command show git status?git status
+correct
 
-## screenshot
+your score is: 1 out of  3
+
+keep practicing yourname
+## Screanshot
+
 ### start game
-![srart game](pic\1.png)
 
-### quiz
-![quiz game](pic\2.png)
+![start game](/pic/1.png)
 
-### quiz
-![quiz game](pic\3.png)
+### quiz and final
+![start game](/pic/2.png)
 
 ## Demo
 ![quiz game demo](gif\quiz_demo.gif)
+
+
 ## Roadmap
-- [x] add multiple quiz qestion
-- [x] calculate the final score
-- [x] save result to a file
+- [x] add multiple quiz question 
+- [x] calculate thefinal score
+- [x] save result 
 - [x] add admin mode
-- [ ] add more quiz questions
-- [ ] add difficultli
-- [ ] add a timer
+- [ ] add more question 
+- [ ] add difficltly leavels
+- [ ] add timer
+
+
 ## Contributing
 
 ## Licence
 
 ## Author
-creat by [yazdan ahmadi](https://github.com/Yazdan-Ahmadi-Dev)
+
+create by [Yazdan Ahmadi]((https://github.com/Yazdan-Ahmadi-Dev))
